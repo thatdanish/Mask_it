@@ -12,7 +12,7 @@ It's your generic mask detector ready for deployment, whenever and wherever you 
     Conda (optional)  
 
 #### Model Architecture: 
-    _will be updated soon_  
+    *will be updated soon*  
 
 **Work of : @that_danish**
 ##### NOTE: Anyone is more than welcome to contribute a change/bug-fix/Pr etc.
