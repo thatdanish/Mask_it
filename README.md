@@ -20,5 +20,5 @@ It's your generic mask detector ready for deployment, whenever and wherever you 
     - Loss = Binary Crossentropy
     - Metrics = Accuracy
 
-**Work of : @thatdanish[https://github.com/thatdanish]**
+**Work of : [@thatdanish][https://github.com/thatdanish]**
 ##### NOTE: Anyone is more than welcome to contribute a change/bug-fix/Pr etc.
